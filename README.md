@@ -2,7 +2,7 @@
 
   # 👋 Hi, I'm Erfan Jalali!
 
-  ### 🎮 Game Developer 
+  ### 🎮 Game Developer & 💻 Software Engineer
 
   <!-- Typing SVG Animation -->
   <a href="https://git.io/typing-svg">
@@ -16,7 +16,7 @@
 ### 🚀 About Me
 
 - 🔭 **Currently working on:** 2D & 3D game mechanics in **Unity** (C#).
-- 🌱 **Currently learning:** Advanced game architecture, performance optimization, and vector calculus applications.
+- 🌱 **Currently learning:** Advanced game architecture, performance optimization .
 - 💡 **Interests:** Modular game mechanics, procedural systems, and algorithm optimization.
 - 📫 **How to reach me:** Feel free to connect via GitHub or Email.
 
@@ -50,9 +50,9 @@
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/erfanJalali2007/erfanjalali2007/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/erfanJalali2007/erfanjalali2007/output/github-snake.svg" />
-    <img alt="github-snake" src="https://raw.githubusercontent.com/erfanJalali2007/erfanjalali2007/output/github-snake-dark.svg" width="100%" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/erfanJalali2007/erfanjalali2007/output/github-snake-dark.svg?v=3" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/erfanJalali2007/erfanjalali2007/output/github-snake.svg?v=3" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/erfanJalali2007/erfanjalali2007/output/github-snake-dark.svg?v=3" width="100%" />
   </picture>
 </div>
 
