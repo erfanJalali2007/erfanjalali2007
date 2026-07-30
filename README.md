@@ -2,7 +2,7 @@
 
   # 👋 Hi, I'm Erfan Jalali!
 
-  ### 🎮 Game Developer & 💻 Software Engineer
+  ### 🎮 Game Developer
 
   <!-- Typing SVG Animation -->
   <a href="https://git.io/typing-svg">
@@ -15,8 +15,8 @@
 
 ### 🚀 About Me
 
-- 🔭 **Currently working on:** 2D & 3D game mechanics in **Unity** (C#).
-- 🌱 **Currently learning:** Advanced game architecture, performance optimization .
+- 🔭 **Currently working on:** 2D & 3D game mechanics in **Unity** (C#) .
+- 🌱 **Currently learning:** Advanced game architecture, performance optimization.
 - 💡 **Interests:** Modular game mechanics, procedural systems, and algorithm optimization.
 - 📫 **How to reach me:** Feel free to connect via GitHub or Email.
 
@@ -37,22 +37,13 @@
 
 ---
 
-### 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=erfanJalali2007&show_icons=true&theme=tokyonight&hide_border=true" alt="Erfan's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=erfanJalali2007&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%" />
-</div>
-
----
-
 ### 🐍 Contribution Activity
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/erfanJalali2007/erfanjalali2007/output/github-snake-dark.svg?v=3" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/erfanJalali2007/erfanjalali2007/output/github-snake.svg?v=3" />
-    <img alt="github-snake" src="https://raw.githubusercontent.com/erfanJalali2007/erfanjalali2007/output/github-snake-dark.svg?v=3" width="100%" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/erfanJalali2007/erfanjalali2007/output/github-snake-dark.svg?v=4" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/erfanJalali2007/erfanjalali2007/output/github-snake.svg?v=4" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/erfanJalali2007/erfanjalali2007/output/github-snake-dark.svg?v=4" width="100%" />
   </picture>
 </div>
 
